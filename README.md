@@ -1,5 +1,12 @@
 ### Hi there 👋
+📫 How to reach me: 
+- emai: duyhqpham@gmail.com
+- Facebook: https://www.facebook.com/duyhqpham/
 
+<a href="https://www.facebook.com/duyhqpham/">
+<img src="https://png.pngtree.com/png-clipart/20180515/ourmid/pngtree-facebook-logo-facebook-icon-png-image_3566127.png" width="65">
+</a>
+<!--
 <!--
 **duyhqpham-dev/duyhqpham-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
