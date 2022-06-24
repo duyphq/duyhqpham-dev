@@ -1,19 +1,15 @@
 ### Hi there 👋
 📫 How to reach me: 
-- emai: duyhqpham@gmail.com
-- Facebook: https://www.facebook.com/duyhqpham/
+- Emai: duyhqpham@gmail.com
 
-<a href="https://www.facebook.com/duyhqpham/">
+<a href="https://twitter.com/PhqDuy">
 <img src="./images/socials/twitter.svg" width="30">
 </a>
-<a href="https://www.facebook.com/duyhqpham/">
+<a href="https://www.linkedin.com/in/qu%E1%BB%91c-duy-ph%E1%BA%A1m-hu%E1%BB%B3nh-a77a3922b/">
 <img src="./images/socials/linkedin.svg" width="30">
 </a>
-<a href="https://www.facebook.com/duyhqpham/">
+<a href="https://stackoverflow.com/users/19406929/">
 <img src="./images/socials/stackoverflow.svg" width="30">
-</a>
-<a href="https://www.facebook.com/duyhqpham/">
-<img src="./images/socials/instagram.svg" width="30">
 </a>
 <!--
 <!--
