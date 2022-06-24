@@ -4,7 +4,16 @@
 - Facebook: https://www.facebook.com/duyhqpham/
 
 <a href="https://www.facebook.com/duyhqpham/">
-<img src="./images/socials/twitter.svg" width="65">
+<img src="./images/socials/twitter.svg" width="30">
+</a>
+<a href="https://www.facebook.com/duyhqpham/">
+<img src="./images/socials/linkedin.svg" width="30">
+</a>
+<a href="https://www.facebook.com/duyhqpham/">
+<img src="./images/socials/stackoverflow.svg" width="30">
+</a>
+<a href="https://www.facebook.com/duyhqpham/">
+<img src="./images/socials/instagram.svg" width="30">
 </a>
 <!--
 <!--
