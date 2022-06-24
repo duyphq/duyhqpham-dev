@@ -4,7 +4,7 @@
 - Facebook: https://www.facebook.com/duyhqpham/
 
 <a href="https://www.facebook.com/duyhqpham/">
-<img src="./images/javascript.png" width="65">
+<img src="./images/socials/twitter.svg" width="65">
 </a>
 <!--
 <!--
